@@ -1,0 +1,22 @@
+﻿  main.cpp
+f:\programming for graphics assigment\programming for graphics assigment\main.cpp(41): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+f:\programming for graphics assigment\programming for graphics assigment\main.cpp(42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+f:\programming for graphics assigment\programming for graphics assigment\main.cpp(54): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\programming for graphics assigment\programming for graphics assigment\main.cpp(55): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\programming for graphics assigment\programming for graphics assigment\main.cpp(56): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\programming for graphics assigment\programming for graphics assigment\main.cpp(57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\programming for graphics assigment\programming for graphics assigment\main.cpp(59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\programming for graphics assigment\programming for graphics assigment\main.cpp(60): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\programming for graphics assigment\programming for graphics assigment\main.cpp(61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\programming for graphics assigment\programming for graphics assigment\main.cpp(62): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\programming for graphics assigment\programming for graphics assigment\main.cpp(139): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\programming for graphics assigment\programming for graphics assigment\main.cpp(140): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\programming for graphics assigment\programming for graphics assigment\main.cpp(149): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\programming for graphics assigment\programming for graphics assigment\main.cpp(150): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\programming for graphics assigment\programming for graphics assigment\main.cpp(151): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\programming for graphics assigment\programming for graphics assigment\main.cpp(152): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\programming for graphics assigment\programming for graphics assigment\main.cpp(153): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\programming for graphics assigment\programming for graphics assigment\main.cpp(154): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\programming for graphics assigment\programming for graphics assigment\main.cpp(155): warning C4305: 'argument': truncation from 'double' to 'float'
+  Programming for Graphics Assigment.vcxproj -> F:\Programming for Graphics Assigment\Debug\Programming for Graphics Assigment.exe
+  Programming for Graphics Assigment.vcxproj -> F:\Programming for Graphics Assigment\Debug\Programming for Graphics Assigment.pdb (Partial PDB)
