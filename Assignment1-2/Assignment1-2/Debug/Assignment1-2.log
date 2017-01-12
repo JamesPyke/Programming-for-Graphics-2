@@ -1,0 +1,11 @@
+﻿  Main.cpp
+f:\assignment1-2\assignment1-2\main.cpp(8): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\assignment1-2\assignment1-2\main.cpp(9): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\assignment1-2\assignment1-2\main.cpp(26): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+f:\assignment1-2\assignment1-2\main.cpp(26): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+f:\assignment1-2\assignment1-2\main.cpp(152): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+f:\assignment1-2\assignment1-2\main.cpp(152): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+f:\assignment1-2\assignment1-2\main.cpp(164): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+f:\assignment1-2\assignment1-2\main.cpp(164): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  Assignment1-2.vcxproj -> F:\Assignment1-2\Debug\Assignment1-2.exe
+  Assignment1-2.vcxproj -> F:\Assignment1-2\Debug\Assignment1-2.pdb (Partial PDB)

@@ -1,0 +1,6 @@
+﻿  Ball.cpp
+f:\assignement1\assignement1\ball.cpp(14): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+f:\assignement1\assignement1\ball.cpp(44): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+f:\assignement1\assignement1\ball.cpp(50): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Assignement1.vcxproj -> F:\Assignement1\Debug\Assignement1.exe
+  Assignement1.vcxproj -> F:\Assignement1\Debug\Assignement1.pdb (Partial PDB)
